@@ -1,0 +1,3 @@
+//new
+1 MOD_
+5 "" !"GroundWeaponHolder" !"Supply" !"B_Kitbag_" !"B_Bergen_" !"B_Carryall_" !"B_AssaultPack_" !"B_Hunting" !"B_FieldPack_" !"B_Parachute" !"Land_" !"_medic_F" !"_soldier_repair_F" !"_soldier_exp_F" !"Mod_" !"b_survivor_F" !"Survivor" !"Zombie"
